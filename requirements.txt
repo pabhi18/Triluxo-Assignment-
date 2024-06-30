@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-chroma
+langchain-google-genai
+langchain-community
+bs4
+langchainhub
+Flask
